@@ -1,0 +1,5 @@
+Kwerendy sprawdzające definicję tabeli FactInternetSales:
+
+a) Oracle:  DESCRIBE FactInternetSales
+b) PostgreSQL: \d+ FactInternetSales
+c) MySQL:  DESCRIBE FactInternetSales
