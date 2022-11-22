@@ -1,5 +1,5 @@
-Kwerendy sprawdzające definicję tabeli FactInternetSales:
-
+Kwerendy sprawdzające definicję tabeli FactInternetSales w poszczególnych bazach:
 a) Oracle:  DESCRIBE FactInternetSales
 b) PostgreSQL: \d+ FactInternetSales
 c) MySQL:  DESCRIBE FactInternetSales
+d) MsSQL:  exec sp_columns FactInternetSales
