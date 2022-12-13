@@ -1,0 +1,5 @@
+Zad. 6
+Zaimplementowany został SCD Typu 2
+
+Zad. 7
+Wpływ na działanie procesu miało ustawienie opcji "Fail the transformation if changes are detected in a fixed attribute", ponieważ "FirstName" ma typ "Fixed attribute".
